@@ -41,6 +41,3 @@ I want to be a Artist+Programmer(ArtiPro😂)-FrontEnd Dev✨
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkkmd)](https://solved.ac/kkkkmd)
 
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=FAE0D4&height=100&section=footer)
-
