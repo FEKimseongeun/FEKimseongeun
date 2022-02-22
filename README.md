@@ -33,8 +33,6 @@ I want to be a Artist+Programmer(ArtiPro😂)-FrontEnd Dev✨
   <a href="mailto:hanhun0318@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanhun0318@gmail.com"/></a>
 </p>
 <p>
-  😊Original Instagram
-  <a href="https://www.instagram.com/ksilver_castle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ksilver_castle/"/></a>&nbsp<br>
   🎨Illustration Instagram
   <a href="https://www.instagram.com/iwantbeniceillustrator_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iwantbeniceillustrator_/"/></a>&nbsp<br>
 </p><br><br>
