@@ -32,8 +32,5 @@ I want to be a Artist+Programmer(ArtiPro😂)-FrontEnd Dev✨
   <a href="https://blog.naver.com/k0qf_1e"><img src="https://img.shields.io/badge/Design&Tech%20Blog-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/k0qf_1e"/></a>&nbsp
   <a href="mailto:hanhun0318@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanhun0318@gmail.com"/></a>
 </p>
-<p>
-  🎨Illustration Instagram
-  <a href="https://www.instagram.com/iwantbeniceillustrator_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iwantbeniceillustrator_/"/></a>&nbsp<br>
-</p><br><br>
+<br><br>
 
