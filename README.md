@@ -28,7 +28,8 @@
   <a href="https://blog.naver.com/k0qf_1e"><img src="https://img.shields.io/badge/Design&Tech%20Blog-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/k0qf_1e"/></a>&nbsp
   <a href="mailto:hanhun0318@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanhun0318@gmail.com"/></a>
 </p>
-<br><br>
+<hr>
+<br>
 
 ![FEKimseongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=FEKimseongeun&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkkkmd)](https://solved.ac/kkkkmd)
