@@ -2,10 +2,6 @@
   <img src = "https://user-images.githubusercontent.com/62641359/124632006-e3af4880-debe-11eb-9acb-bfc52c5c24ad.png">
 
   
-<h3>👋Hi!👋</h3>
-I'm Seongeun Kim, a growing developer. 🌱 <br>
-I want to be a Artist+Programmer(ArtiPro😂)-FrontEnd Dev✨
-  
   
 <h3>📚 Technology Stack 📚</h3>
 <p>
