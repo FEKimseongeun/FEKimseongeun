@@ -25,8 +25,8 @@
 <h3>🖐About Me🖐</h3>
 
 <p>
-  <a href="https://blog.naver.com/k0qf_1e"><img src="https://img.shields.io/badge/Design&Tech%20Blog-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/k0qf_1e"/></a>&nbsp
-  <a href="mailto:hanhun0318@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanhun0318@gmail.com"/></a>
+  <a href="https://velog.io/@kansun12"><img src="https://img.shields.io/badge/Tech%20Blog-12B886?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kansun12"/></a>&nbsp
+  <a href="https://blog.naver.com/k0qf_1e"><img src="https://img.shields.io/badge/Design%20Blog-1fd771?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/k0qf_1e"/></a>&nbsp
 </p>
 <hr>
 <br>
