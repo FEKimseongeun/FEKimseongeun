@@ -13,13 +13,12 @@
   <img src="https://img.shields.io/badge/HTML-11B48A?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android-5CD1E5?style=flat-square&logo=android&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Spring-B5B2FF?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-092E20?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Dart-E6B91E?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/BlockChain-DB3552?style=flat-square&logo=ethereum&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/flutter-333664?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/nodeJS-005571?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/docker-6B66FF?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3>🖐Blog🖐</h3>
