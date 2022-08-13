@@ -1,9 +1,9 @@
 ![제목 없음-2](https://user-images.githubusercontent.com/62641359/184502504-dfcc53f3-0900-4455-a42d-6e664e241f9a.png)
 
-
+# 🚀 김성은, 2000.12.02
+> 🖐 Call me ***LOA***
   
-  
-<h3>📚 Technology Stack 📚</h3>
+# 🛠 Tech Stack
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -26,12 +26,10 @@
   <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
 </p>
 
-> **Language usage**
-
+# ✨About GITHUB
+### 🔭Actions
 <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FEKimseoneun&layout=compact&theme=tokyonight)
-</div>
-<div align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEKimseongeun&theme=flag-india&layout=compact"/>
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=FEKimseongeun"/>
 </div>
 <div align="center">
