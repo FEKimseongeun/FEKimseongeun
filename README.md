@@ -16,7 +16,6 @@
   <img alt="Sass" src="https://img.shields.io/badge/-sass-ea2845?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-FB542B?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-EC4A3F?style=flat-square&logo=django&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF5E00?style=flat-square&logo=mysql&logoColor=white" />
