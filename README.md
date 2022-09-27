@@ -46,17 +46,16 @@
 
 |                             Project                             |       Contents       |        Subject        |          Date           |
 |:---------------------------------------------------------------:|:--------------------:|:---------------------:| :---------------------: |
-|    [Mazle](https://github.com/FEKimseongeun/Mazel-frontend)     |     DND 토이 프로젝트      |     음료/카페 리뷰 웹서비스     | 2021.03.29 ~ 2021.06.21 |
-| [Smallest-Shelter](https://github.com/The-Smallest-Shelter-UMC) |     UMC 토이 프로젝트      |     유기동물 입양 웹서비스      | 2021.04.01 ~ 2021.06.21 |
-|          [Dreather](https://github.com/GDSC-HighFive)           |     GDSC 상명 해커톤      |    날씨별로 코디 추천 서비스     | 2021.04.03 ~ 2021.07.31 |
-|        [RUN-UP](https://github.com/FEKimseongeun/run-up)        | 2021 Paas-ta클라우드 공모전 | 선생님/학생 간의 출석, 퀴즈 웹서비스 | 2021.08.14 ~ 2021.09.05 |
-|         [Earth-Ranger](https://github.com/Earth-Ranger)         |  2021 국민은행 KBSC 공모전  |   걷는 만큼 탄소 챌린지 앱서비스   | 2021.11.14 ~ 2021.11.23 |
-|       [HUSK](https://github.com/FEKimseongeun/SWPBL_HUSK)       |    2021 PBL 경진대회     | 머신러닝을 이용한 마스크인식 웹서비스  |      2021.11.14 ~ 2021.11.23    |
-|         [HuWeb](https://github.com/FEKimseongeun/huWeb)         |   2020 겨울방학 상생프로젝트   |      이미지 편집 웹서비스      |    2021.11.14 ~ 2021.11.23    |
-|     [PHOME](https://github.com/FEKimseongeun/android-PHOME)     |   2020 여름방학 상생프로젝트   |      홈트레이닝 앱서비스       |   2021.11.14 ~ 2021.11.23   |
-|    [NoonSokMal](https://github.com/FEKimseongeun/NoonSokMal)    |     여름 방학 팀 프로젝트     |     청각장애인 소통 앱서비스     |      2022.01.03 ~ 2022.02.25       |
+|    [Mazle](https://github.com/FEKimseongeun/Mazel-frontend)     |     DND 토이 프로젝트      |     음료/카페 리뷰 웹서비스     | 2022.07.03 ~ 2022.08.20 |
+| [Smallest-Shelter](https://github.com/The-Smallest-Shelter-UMC) |     UMC 토이 프로젝트      |     유기동물 입양 웹서비스      | 2022.07.01 ~ 2021.08.21 |
+|          [Dreather](https://github.com/GDSC-HighFive)           |     GDSC 상명 해커톤      |    날씨별로 코디 추천 서비스     | 2022.07.21 ~ 2022.07.22 |
+|        [RUN-UP](https://github.com/FEKimseongeun/run-up)        | 2021 Paas-ta클라우드 공모전 | 선생님/학생 간의 출석, 퀴즈 웹서비스 | 2021.10.14 ~ 2021.12.21 |
+|         [Earth-Ranger](https://github.com/Earth-Ranger/tree_eats_carbon_FRONT)         |  2021 국민은행 KBSC 공모전  |   걷는 만큼 탄소 챌린지 앱서비스   | 2021.08.01 ~ 2021.10.02 |
+|       [HUSK](https://github.com/FEKimseongeun/SWPBL_HUSK)       |    2021 PBL 경진대회     | 머신러닝을 이용한 마스크인식 웹서비스  |    2021.05.01 ~ 2021.05.31   |
+|         [HuWeb](https://github.com/FEKimseongeun/huWeb)         |   2020 겨울방학 상생프로젝트   |      이미지 편집 웹서비스      |   2020.12.22 ~ 2021.02.14  |
+|     [PHOME](https://github.com/FEKimseongeun/android-PHOME)     |   2020 여름방학 상생프로젝트   |      홈트레이닝 앱서비스       |   2020.11.13 ~ 2020.12.26   |
+|    [NoonSokMal](https://github.com/FEKimseongeun/NoonSokMal)    |     여름 방학 팀 프로젝트     |     청각장애인 소통 앱서비스     |      2021.08.11 ~ 2021.09.28       |
 |   [Safety-Road](https://github.com/FEKimseongeun/Safety-Road)   |       졸업 프로젝트        |     안전귀가길 추천 서비스      |      2022.01.02 ~        |
-|          [SOM](https://github.com/hyunmin0317/SOM-FE)           |       SOM 프로젝트       |      서로알기 윷놀이 게임      |      2022.04.28 ~        |
 
 ## 🖥 Project
 
