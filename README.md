@@ -1,9 +1,13 @@
 ![제목 없음-2](https://user-images.githubusercontent.com/62641359/184502504-dfcc53f3-0900-4455-a42d-6e664e241f9a.png)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFEKimseongeun&count_bg=%23FF7B00&title_bg=%23555555&icon=&icon_color=%23000000&title=%E2%9C%A8%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🚀 김성은, 2000.12.02
 > 🖐 Call me ***LOA***
-  
-# 🛠 Tech Stack
+> 
+> 💅 ***디자인*** 하는 ***개발자***, 김성은입니다.
+
+## 🛠 Tech Stack
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -25,6 +29,66 @@
   <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
 </p>
 
+## 🏃‍♀ Career
+
+| Type |       Date        |      Name       |      Organization       |
+|:----:|:-----------------:|:---------------:|:-----------------------:|
+| 대학교  |     2019.03 ~     |   휴먼지능정보공학전공    |          상명대학교          |
+| 동아리  | 2019.07 ~ 2022.07 |    IT동아리 이니로    |          상명대학교          |
+| 동아리  | 2022.03 ~ 2022.07 | UMC 2기(프론트 운영진) |        컴공선배 너디너리        |
+| 동아리  | 2022.07 ~ 2022.09 | DND 연합동아리 7기 수료 |           DND           |
+|  교육  | 2021.12 ~ 2021.03 |  컴공선배 라이징캠프 수료  |        컴공선배 너디너리        |
+|  활동  | 2020.03 ~ 2021.12 |    과대/학회장 활동    |          상명대학교          |
+|  활동  | 2020.03 ~ 2021.06 |  상명대학교 홍보대사 활동  | 상명대학교 |
+
+
+## 🙌Team Project
+
+|                             Project                             |       Contents       |        Subject        |          Date           |
+|:---------------------------------------------------------------:|:--------------------:|:---------------------:| :---------------------: |
+|    [Mazle](https://github.com/FEKimseongeun/Mazel-frontend)     |     DND 토이 프로젝트      |     음료/카페 리뷰 웹서비스     | 2021.03.29 ~ 2021.06.21 |
+| [Smallest-Shelter](https://github.com/The-Smallest-Shelter-UMC) |     UMC 토이 프로젝트      |     유기동물 입양 웹서비스      | 2021.04.01 ~ 2021.06.21 |
+|          [Dreather](https://github.com/GDSC-HighFive)           |     GDSC 상명 해커톤      |    날씨별로 코디 추천 서비스     | 2021.04.03 ~ 2021.07.31 |
+|        [RUN-UP](https://github.com/FEKimseongeun/run-up)        | 2021 Paas-ta클라우드 공모전 | 선생님/학생 간의 출석, 퀴즈 웹서비스 | 2021.08.14 ~ 2021.09.05 |
+|         [Earth-Ranger](https://github.com/Earth-Ranger)         |  2021 국민은행 KBSC 공모전  |   걷는 만큼 탄소 챌린지 앱서비스   | 2021.11.14 ~ 2021.11.23 |
+|       [HUSK](https://github.com/FEKimseongeun/SWPBL_HUSK)       |    2021 PBL 경진대회     | 머신러닝을 이용한 마스크인식 웹서비스  |      2021.11.14 ~ 2021.11.23    |
+|         [HuWeb](https://github.com/FEKimseongeun/huWeb)         |   2020 겨울방학 상생프로젝트   |      이미지 편집 웹서비스      |    2021.11.14 ~ 2021.11.23    |
+|     [PHOME](https://github.com/FEKimseongeun/android-PHOME)     |   2020 여름방학 상생프로젝트   |      홈트레이닝 앱서비스       |   2021.11.14 ~ 2021.11.23   |
+|    [NoonSokMal](https://github.com/FEKimseongeun/NoonSokMal)    |     여름 방학 팀 프로젝트     |     청각장애인 소통 앱서비스     |      2022.01.03 ~ 2022.02.25       |
+|   [Safety-Road](https://github.com/FEKimseongeun/Safety-Road)   |       졸업 프로젝트        |     안전귀가길 추천 서비스      |      2022.01.02 ~        |
+|          [SOM](https://github.com/hyunmin0317/SOM-FE)           |       SOM 프로젝트       |      서로알기 윷놀이 게임      |      2022.04.28 ~        |
+
+## 🖥 Project
+
+|                                   Project                                   |                                                                                                                                                         Language&Framework                                                                                                                                                         |   Subject   |          Date           |
+|:---------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------------------:|
+|        [TodoList](https://github.com/FEKimseongeun/todo-list-react)         |                                                                                                                <img src="https://img.shields.io/badge/React-45b8d8?style=round-square&logo=React&logoColor=white"/>                                                                                                                |  나만의 투두리스트  | 2021.07.12 ~ 2021.07.17 |
+| [Instagram-Clone](https://github.com/FEKimseongeun/instagram-clone-ReactJS) |                                                                                                                <img src="https://img.shields.io/badge/React-45b8d8?style=round-square&logo=React&logoColor=white"/>                                                                                                                | 인스타그램 클론 코딩 | 2021.07.22 ~ 2021.07.27 |
+|        [Airbnb-Clone](https://github.com/FEKimseongeun/react-airbnd)        |                                                                                                                <img src="https://img.shields.io/badge/React-45b8d8?style=round-square&logo=React&logoColor=white"/>                                                                                                                | 에어비앤비 클론 코딩 | 2021.08.03 ~ 2021.08.08 |
+|              [Wetube](https://github.com/FEKimseongeun/Wetube)              | <img src="https://img.shields.io/badge/Pug-997000?style=round-square&logo=Pug&logoColor=white"/><br/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=Javascript&logoColor=white"/><br/><img src="https://img.shields.io/badge/Babel-F361A6?style=round-square&logo=Babel&logoColor=white"/> |  유튜브 클론 코딩  | 2022.01.21 ~ 2022.02.25 |
+|          [Webflix](https://github.com/FEKimseongeun/WEBFLIX_summer)          |                                                                                                                <img src="https://img.shields.io/badge/html5-F05032?style=round-square&logo=html5&logoColor=white"/>                                                                                                                | 넷플릭스 클론 코딩  | 2022.01.25 ~ 2022.03.16 |
+
+## 💻 Team Study
+
+|                                      Study                                      |                                                                                             Language/Framework                                                                                              |    Contents     |          Date           |
+|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:| :---------------------: |
+| [CodingTest Study](https://github.com/FEKimseongeun/CodingTest-Study) |                                                   <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>                                                    |    코딩테스트 스터디    | 2021.03.08 ~ 2021.05.08 |
+|            [HTML/CSS/JS Study](https://github.com/FEKimseongeun/Web)            | <img src="https://img.shields.io/badge/html5-F05032?style=round-square&logo=html5&logoColor=white"/><br/><img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white"/><br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=Javascript&logoColor=white"/> | HTML/CSS/JS 스터디 | 2021.03.18 ~ 2021.05.13 |
+|      [Docker Study](https://github.com/FEKimseongeun/docker-fullstack-app)      |                                            <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=round-square&logo=docker&logoColor=white" />                                            |   Docker 스터디    | 2021.03.31 ~ 2021.06.21 |
+|           [React-Study](https://github.com/FEKimseongeun/React-Study)           |                                                    <img src="https://img.shields.io/badge/React-45b8d8?style=round-square&logo=React&logoColor=white"/>                                                     |    React 스터디    | 2021.07.18 ~ 2021.08.08 |
+
+
+## 📔 Programming Study & Tutoring
+
+|                                                                           Study                                                                            |                                                                                                        Language                                                                                                         |  Contents  |         Date          |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:---------------------:|
+|                                          [PythonProgramming](https://github.com/FEKimseongeun/Python_like_Python)                                          |                                                         <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>                                                          | 파이썬 프로그래밍  |       2022년 1학기       |
+| [Coding-test(Programmers JS)](https://github.com/FEKimseongeun/Programmers_js) <br/>[Coding-Test(BOJ)](https://github.com/FEKimseongeun/soengeun-baekjoon) | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=round-square&logo=javascript&logoColor=white"/><br/><img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Oracle&logoColor=white"/> |   코딩테스트    | 2020년 2학기 ~ 2021년 2학기 |
+|                                        [ComputerVision](https://github.com/FEKimseongeun/Digital_Image_Processing)                                         |                                                              <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>                                                               |   컴퓨터비전    |       2022년 1학기       |
+|                                              [DesignPattern](https://github.com/FEKimseongeun/Design_Pattern)                                              |                                <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Oracle&logoColor=white"/>                                                         |   디자인패턴    |       2021년 2학기       |
+|                                            [Web-Tutoring](https://github.com/FEKimseongeun/Inyro-WEB-Mentoring)                                            |                        <img src="https://img.shields.io/badge/html5-F05032?style=round-square&logo=html5&logoColor=white"/><br/><img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white"/><br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=Javascript&logoColor=white"/>           | 웹프로그래밍 멘토링 |       2022년 1학기       |
+|                                            [Java-Tutoring](https://github.com/FEKimseongeun/Sangmyung-Tutoring)                                            |          <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Oracle&logoColor=white"/>                  |   자바 멘토링   |       2021년 1학기       |
+
 # ✨About GITHUB
 ### 🔭Actions
 <div align="center">
@@ -37,6 +101,3 @@
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=FEKimseongeun&theme=github"/>
 </div>
-
-<hr>
-<br>
