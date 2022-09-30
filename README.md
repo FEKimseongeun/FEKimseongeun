@@ -27,6 +27,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-java-F7B93E?style=flat-square&logo=java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=C&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white" />
 </p>
 
 ## 🏃‍♀ Career
