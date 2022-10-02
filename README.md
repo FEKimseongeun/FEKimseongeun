@@ -1,4 +1,3 @@
-![제목 없음-2](https://user-images.githubusercontent.com/62641359/184502504-dfcc53f3-0900-4455-a42d-6e664e241f9a.png)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFEKimseongeun&count_bg=%23FF7B00&title_bg=%23555555&icon=&icon_color=%23000000&title=%E2%9C%A8%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🚀 김성은, 2000.12.02
