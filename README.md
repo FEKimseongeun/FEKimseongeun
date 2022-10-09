@@ -92,13 +92,16 @@
 |                                            [Web-Tutoring](https://github.com/FEKimseongeun/Inyro-WEB-Mentoring)                                            |                        <img src="https://img.shields.io/badge/html5-F05032?style=round-square&logo=html5&logoColor=white"/><br/><img src="https://img.shields.io/badge/css3-1572B6?style=round-square&logo=css3&logoColor=white"/><br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=Javascript&logoColor=white"/>           | 웹프로그래밍 멘토링 |       2022년 1학기       |
 |                                            [Java-Tutoring](https://github.com/FEKimseongeun/Sangmyung-Tutoring)                                            |          <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Oracle&logoColor=white"/>                  |   자바 멘토링   |       2021년 1학기       |
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkkkmd)](https://solved.ac/kkkkmd)
+<div align="center" display="flex">
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkkkmd)](https://solved.ac/kkkkmd) 
+
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEKimseongeun&theme=flag-india&layout=compact"/>
+
+</div>
+
 # ✨About GITHUB
 ### 🔭Actions
-<div align="center" display="flex">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEKimseongeun&theme=flag-india&layout=compact"/>
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=FEKimseongeun"/>
-</div>
 <div align="center">
     	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
