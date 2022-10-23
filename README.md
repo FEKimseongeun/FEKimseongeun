@@ -60,7 +60,6 @@
 |       [HUSK](https://github.com/FEKimseongeun/SWPBL_HUSK)       |    2021 PBL 경진대회     | 머신러닝을 이용한 마스크인식 웹서비스  |    2021.05.01 ~ 2021.05.31   |
 |         [HuWeb](https://github.com/FEKimseongeun/huWeb)         |   2020 겨울방학 상생프로젝트   |      이미지 편집 웹서비스      |   2020.12.22 ~ 2021.02.14  |
 |     [PHOME](https://github.com/FEKimseongeun/android-PHOME)     |   2020 여름방학 상생프로젝트   |      홈트레이닝 앱서비스       |   2020.11.13 ~ 2020.12.26   |
-|    [NoonSokMal](https://github.com/FEKimseongeun/NoonSokMal)    |     여름 방학 팀 프로젝트     |     청각장애인 소통 앱서비스     |      2021.08.11 ~ 2021.09.28       |
 |   [Safety-Road](https://github.com/FEKimseongeun/Safety-Road)   |       졸업 프로젝트        |     안전귀가길 추천 서비스      |      2022.01.02 ~        |
 
 ## 🖥 Project
