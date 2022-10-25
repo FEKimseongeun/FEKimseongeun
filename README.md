@@ -30,7 +30,6 @@
   <img alt="C" src="https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=C&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
 </p>
 
 ## 🏃‍♀ Career
