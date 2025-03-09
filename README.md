@@ -18,8 +18,9 @@ EPC/FEED 플랜트 프로젝트에서 3D Admin 업무를 수행하며, 설계 �
 
 - **ISO Metric Drawing : Extract Only Line Condition Data**
 
-- ITB분석시스템 AI검색 기능 구현 (BERT Fine-Tuning / Ensemble 기법 활용)
+- **ITB분석시스템 AI검색 기능 구현 (BERT Fine-Tuning / Ensemble 기법 활용)**  
   _ITB Analysis System AI Search Development (BERT Fine-Tuning / Ensemble Techniques)_
+
 
 ---
 
