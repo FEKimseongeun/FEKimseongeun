@@ -7,7 +7,7 @@ EPC/FEED 플랜트 프로젝트에서 3D Admin 업무를 수행하며, 설계 �
 
 ## 개발 및 시스템 구축
 
-- **LLM 활용 설계 자동화 프로그램 개발 (P&ID)**  
+- **NLP 모델 활용 설계 자동화 프로그램 개발 (P&ID)**  
   _Development of an Automated Design Program Utilizing LLMs (P&ID)_
 
 - **3D 프로그램 라이선스 모니터링 프로그램 개발**  
