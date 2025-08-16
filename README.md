@@ -1,8 +1,7 @@
+
+
 EPC/FEED 플랜트 프로젝트에서 3D Admin 업무를 수행하며, 설계 자동화와 AI 기술로 DX/Smart Factory 전환을 선도하고 있는
 # 김성은입니다.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFEKimseongeun&count_bg=%23FF7B00&title_bg=%23555555&icon=&icon_color=%23000000&title=%E2%9C%A8%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ---
 
 ## 개발 및 시스템 구축
