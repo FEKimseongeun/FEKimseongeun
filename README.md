@@ -1,4 +1,5 @@
 
+![seongeun_banner](https://github.com/user-attachments/assets/14dc9417-bdcd-4bab-b029-3265a4309d48)
 
 EPC/FEED 플랜트 프로젝트에서 3D Admin 업무를 수행하며, 설계 자동화와 AI 기술로 DX/Smart Factory 전환을 선도하고 있는
 # 김성은입니다.
