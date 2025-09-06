@@ -1,13 +1,12 @@
 
 ![seongeun_banner](https://github.com/user-attachments/assets/14dc9417-bdcd-4bab-b029-3265a4309d48)
 
-EPC/FEED 플랜트 프로젝트에서 3D Admin 업무를 수행하며, 설계 자동화와 AI 기술로 DX/Smart Factory 전환을 선도하고 있는
 # 김성은입니다.
 ---
 
 ## 개발 및 시스템 구축
 
-- **NLP 모델 활용 설계 자동화 프로그램 개발 (P&ID)**  
+- **언어 모델 학습 및 파인튜닝으로 AI 도면 Data Extraction 프로그램 개발 (P&ID)**  
   _Development of an Automated Design Program Utilizing LLMs (P&ID)_
 
 - **3D 프로그램 라이선스 모니터링 프로그램 개발**  
