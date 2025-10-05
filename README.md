@@ -1,7 +1,7 @@
 
 ![seongeun_banner](https://github.com/user-attachments/assets/14dc9417-bdcd-4bab-b029-3265a4309d48)
 
-# 김성은입니다.
+# 건설사 다니는(!) AI 디벨로퍼 김성은입니다.
 ---
 
 ## 개발 및 시스템 구축
